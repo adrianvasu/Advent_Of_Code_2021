@@ -1,7 +1,11 @@
 #!/usr/bin/env python3
 
-def main():
+def p1():
     print("hi")
 
+def p2():
+    pass
+
 if __name__=="__main__":
-    main()
+    p1()
+    p2()
